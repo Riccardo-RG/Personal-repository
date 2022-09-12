@@ -1,0 +1,38 @@
+
+h1{
+    color: rgb(244, 236, 224);
+    background-color:rgba(57, 55, 55, 0.653);
+    box-shadow: rgb(rgb(75, 65, 65))
+}
+
+.cont{
+    background-color: rgba(205, 196, 196, 0.29);
+    padding: 5px 20px 15px 20px; 
+    border-radius: 2%;
+    
+}
+.openModalBtn{
+    background-color: rgba(17, 199, 93, 0.259) ;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 12px;
+    cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+
+}
+
+
+.headTable{
+    font-size:xx-large;
+    border-radius: 1em;
+    border-color: rgba(29, 24, 24, 0.55);
+    border-width: 0.2em;
+}
+
+tbody{
+     border-width: 0.2em;
+     border-color: rgba(29, 24, 24, 0.55);
+
+}
